@@ -12,7 +12,6 @@ I am a final year student at VIT Pune. I have worked on Full stack development, 
 * 🚀  I am currently working on a [Full stack Pokedex application](https://github.com/Adw8/Pokedex-App)
 * 🧠  I'm currently learning System Design, Backtracking, Pytorch, and much more
 * 🤝  I'm open to collaborating on web development, data science and machine learning projects
-* ⚡  In my free time I love to go on walks, play video games and workout
 
 ### Skills
 
