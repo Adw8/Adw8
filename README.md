@@ -7,10 +7,9 @@ Software Engineer
 I am a final year student at VIT Pune. I have worked on Full stack development, Data Science and Machine Learning projects. I am obsessed with finding new challenges that help me grow and sharpen my skills. I'm hoping to work in an environment where I can give my all!
 
 * 🌍  I'm based in Pune
-* 🖥️  See my portfolio at [My website](http://adwait-gharpure.netlify.app/)
 * ✉️  You can contact me at [adwaitgharpure@gmail.com](mailto:adwaitgharpure@gmail.com)
 * 🚀  I am currently working on a [Web application for tracking user metrics](https://github.com/Adw8/firebase-analytics)
-* 🧠  I'm currently learning System Design, Backtracking, Pytorch, and much more
+* 🧠  I'm learning System Design, Typescript, PostgreSQL, Pytorch, and more
 * 🤝  I'm open to collaborating on web development, data science and machine learning projects
 
 ### Skills
