@@ -1,12 +1,9 @@
 Hi 👋 My name is Adwait Gharpure
 ================================
 
-Software Engineer
------------------
+Software dev looking for difficult problems to solve
 
-I am a final year student at VIT Pune. I have worked on Full stack development, Data Science and Machine Learning projects. I am obsessed with finding new challenges that help me grow and sharpen my skills. I'm hoping to work in an environment where I can give my all!
-
-* 🌍  I'm based in Pune
+* 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [adwaitgharpure@gmail.com](mailto:adwaitgharpure@gmail.com)
 * 🚀  I am currently working on a [Web application for tracking user metrics](https://github.com/Adw8/firebase-analytics)
 * 🧠  I'm learning System Design, Typescript, PostgreSQL, Pytorch, and more
